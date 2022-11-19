@@ -5,7 +5,7 @@ package gfrolik;
  * @author gioia
  * @version 2022-09-15 
  */
-public class WortTrainer {
+public class WortTrainer { 
 	
 	// Attributes
 	private WortListe wordList;
