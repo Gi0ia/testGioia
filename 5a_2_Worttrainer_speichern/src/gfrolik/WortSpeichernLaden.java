@@ -12,7 +12,7 @@ public class WortSpeichernLaden {
 	// private WortTrainer woerter; 
 	private WortListe liste;
 	private String pfad;
-	private WortTrainer wT;
+	private WortTrainer wT; 
 
 	/**
 	 * constructor w/ parameters

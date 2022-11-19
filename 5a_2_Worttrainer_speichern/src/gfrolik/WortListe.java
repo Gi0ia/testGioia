@@ -85,7 +85,7 @@ public class WortListe {
 				p++;
 			}
 		}
-		this.wortListe = newArr;
+		this.wortListe = newArr; 
 		return alright;
 	}
 	

@@ -7,7 +7,7 @@ import java.io.IOException;
  * @author gioia
  * @version 2022-09-15
  */
-public class WortTest {
+public class WortTest { 
 
 	/**
 	 * main method

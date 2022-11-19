@@ -5,7 +5,7 @@ package gfrolik;
  * @author gioia
  * @version 2022-09-14
  */
-public class WortEintrag {
+public class WortEintrag { 
 
 	// Attributes
 	private String wort;

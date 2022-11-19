@@ -3,7 +3,7 @@ package gfrolik;
 /**
  * A word trainer for kids...
  * @author gioia
- * @version 2022-09-15
+ * @version 2022-09-15 
  */
 public class WortTrainer {
 	
