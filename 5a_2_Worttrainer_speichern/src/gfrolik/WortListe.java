@@ -9,6 +9,7 @@ public class WortListe {
 	// Attribute
 	private WortEintrag[] wortListe = new WortEintrag[0];
 	
+	
 	/**
 	 * get word list
 	 * @return gotten word list
@@ -89,7 +90,7 @@ public class WortListe {
 	}
 	
 	/**
-	 * Overrides toString
+	 * Overrides toString methode
 	 * @return the list as String
 	 */
 	@Override

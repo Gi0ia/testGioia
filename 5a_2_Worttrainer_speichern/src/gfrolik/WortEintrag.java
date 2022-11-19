@@ -2,7 +2,6 @@ package gfrolik;
 
 /**
  * saves a word (2 characters minimum) + a URL
- * 
  * @author gioia
  * @version 2022-09-14
  */

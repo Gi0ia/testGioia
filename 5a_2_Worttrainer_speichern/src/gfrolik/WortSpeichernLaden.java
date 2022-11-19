@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class WortSpeichernLaden {
 	// Attributes
-	// private WortTrainer woerter;
+	// private WortTrainer woerter; 
 	private WortListe liste;
 	private String pfad;
 	private WortTrainer wT;

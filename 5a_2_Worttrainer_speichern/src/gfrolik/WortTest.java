@@ -4,7 +4,6 @@ import java.io.IOException;
 
 /**
  * Tests the methods WortEintrag, WortListe & WortTrainer
- * 
  * @author gioia
  * @version 2022-09-15
  */

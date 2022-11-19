@@ -1,7 +1,7 @@
 package gfrolik;
 
 /**
- * A word trainer for kids
+ * A word trainer for kids...
  * @author gioia
  * @version 2022-09-15
  */
